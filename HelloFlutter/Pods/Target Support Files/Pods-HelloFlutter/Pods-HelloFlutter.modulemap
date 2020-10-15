@@ -1,0 +1,6 @@
+framework module Pods_HelloFlutter {
+  umbrella header "Pods-HelloFlutter-umbrella.h"
+
+  export *
+  module * { export * }
+}
